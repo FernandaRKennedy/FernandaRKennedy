@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandaRKennedy
 - 👀 I’m interested in Software Engenier 
-- 🌱 I’m currently learning Html and Css. 
+- 🌱 I’m currently learning Html, Css, JavaScript. 
 - 💞️ I’m looking forward to lear more about code.
 - 📫 How to reach me: my email is fernandareisdp@gmail.com
 
