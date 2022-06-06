@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FernandaRKennedy
-- 👀 I’m interested in Software Engenier 
-- 🌱 I’m currently learning Html, Css, JavaScript. 
-- 💞️ I’m looking forward to lear more about code.
+- 👀 I’m interested in Software Engenier. 
+- 🌱 I’m currently learning Full Stack Software Development with NC State's Coding Bootcamp. 
+- 💞️ I’m looking forward to learn more about code and have more experience with it.
 - 📫 How to reach me: my email is fernandareisdp@gmail.com
 
 <!---
